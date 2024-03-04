@@ -313,7 +313,7 @@ udp://@225.1.1.29:30120
 udp://@225.1.1.30:30120
 #EXTINF:-1 ,Hưng Yên
 udp://@225.1.1.118:30120
-#EXTINF:-1 ,HTVC Thuần Việt HD
+#EXTINF:-1 ,HTVC Ca Nhac HD
 udp://@225.1.1.185:30120
 #EXTINF:-1 ,HTVC Thuần Việt HD
 udp://@225.1.1.186:30120
