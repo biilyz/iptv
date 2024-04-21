@@ -28,6 +28,10 @@ udp://@225.1.4.3:30120
 udp://@225.1.4.4:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 (HD 8Mbps)
 udp://@225.1.4.5:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 TNB (HD 8Mbps)
+udp://@225.1.2.236:30120
+#EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 TN (HD 8Mbps)
+udp://@225.1.1.108:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ (HD 4Mbps)
 udp://@225.1.4.108:30120
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 (HD 4Mbps)
