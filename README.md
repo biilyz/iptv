@@ -10,5 +10,5 @@ trojan://32de266b-00b9-480e-8b21-d098be55cf32@vn17.maxspeed.us.to:443?mode=gun&s
 vmess://eyJhZGQiOiIxMDMuMTUyLjE2NC4yMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im0udHYzNjAudm4iLCJpZCI6IjMyZGUyNjZiLTAwYjktNDgwZS04YjIxLWQwOThiZTU1Y2YzMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODAiLCJwcyI6IvCfh7vwn4ezIPCdkIzwnZCa8J2QsSDwnZCS8J2QqfCdkJ7wnZCe8J2QnSDwnZ+P8J2fkiDwn5qAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 ```
 ```sh
-https://neko4gvpn.pro.vn/api/v1/client/subscribe?token=78c75387661396cc42a7a57691be33bb
+vless://b38e0eca-1daa-4ed5-b093-3c310d6381ec@cuongele.duckdns.org:80?security=none&encryption=none&host=m.tiktok.com&headerType=http&type=tcp#rxd%20womam
 ```
